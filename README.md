@@ -6,7 +6,6 @@ Link Tutorial: [TUTORIAL DART PACKAGES (BAHASA INDONESIA)](https://www.youtube.c
 
 Bahasan Materi meliputi:
 
-- Pendahuluan
 - Pengenalan Dart Packages
 - Membuat Project Library
 - Struktur Directory Packages
