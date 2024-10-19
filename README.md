@@ -21,7 +21,7 @@ Bahasan Materi meliputi:
 | Tech stack & Tools       | Version |
 | ------------------------ | ------- |
 | Dart (SDK)               | 3.3.0+  |
-| Visual Studio Code       | -       |
+| Visual Studio Code       | Latest  |
 | Dart (VS Code Extension) | 3.90+   |
 
 ## Catatan Pribadi
