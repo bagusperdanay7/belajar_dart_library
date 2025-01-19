@@ -1,8 +1,10 @@
 # Tutorial Dart Packages
 
-Kode ini merupakan materi Dart Packages yang dibawakan oleh **Eko Kurniawan Khannedy** dari channel **_YouTube Programmer Zaman Now_**.
+Kode ini merupakan materi Dart Packages yang dibawakan oleh **Eko Kurniawan Khannedy** dari channel YouTube **_Programmer Zaman Now_**.
 
-Link Tutorial: [TUTORIAL DART PACKAGES (BAHASA INDONESIA)](https://www.youtube.com/watch?v=kK6UGmcER7Q&list=PL-CtdCApEFH9qVH17yCbWZICYopHj4vhn&index=5&pp=iAQB)
+Link Tutorial:
+
+[![Static Badge](<https://img.shields.io/badge/TUTORIAL_DART_PACKAGES_(BAHASA_INDONESIA)-white?style=for-the-badge&logo=youtube&logoColor=%23FF0000>)](https://www.youtube.com/watch?v=kK6UGmcER7Q&list=PL-CtdCApEFH9qVH17yCbWZICYopHj4vhn&index=5&pp=iAQB)
 
 Bahasan Materi meliputi:
 
@@ -28,17 +30,19 @@ Bahasan Materi meliputi:
 
 Jika ingin klona di komputer lain. Taruh di direktori berikut:
 
-    .
-    ├── Course
-    │   ├── Programmer Zaman Now
-    |   |   ├── DART
-    |   |   └── ...
-    |   └── ...
-    └── ...
+```text
+.
+├── Course
+│   ├── Programmer Zaman Now
+|   |   ├── DART
+|   |   └── ...
+|   └── ...
+└── ...
+```
 
 Jika sudah di berada di folder **DART**, baru clone.
 
-```sh
+```shell
 git clone https://github.com/bagusperdanay7/belajar_dart_library.git
 ```
 
@@ -46,7 +50,9 @@ git clone https://github.com/bagusperdanay7/belajar_dart_library.git
 
 ### Run Program
 
-```sh
+Buka teminal, ketikkan perintah:
+
+```shell
 dart run .\bin\namafile.dart
 ```
 
